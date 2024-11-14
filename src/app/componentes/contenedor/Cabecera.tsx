@@ -6,13 +6,13 @@ export const Cabecera = () => {
     <>
       <nav
         className="navbar navbar-expand-lg"
-        style={{ backgroundColor: "#d16960" }}
+        style={{ backgroundColor: "#ffffff" }}
         data-bs-theme="light"
       >
         <div className="container-fluid">
           <NavLink className="navbar-brand" to="/">
             <img src={miLogo} alt="el logo" />
-          </NavLink>
+          </NavLink>  
           <button
             className="navbar-toggler"
             type="button"
