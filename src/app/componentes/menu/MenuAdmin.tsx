@@ -19,10 +19,10 @@ export const MenuAdmin = () => {
             <tbody>
               <tr>
                 <td>1</td>
-                <td>bandeja paisa</td>
-                <td>Con aguacate</td>
-                <td className="text-center">35000</td>
-                <td>Paisa</td>
+                <td>Arepa de huevo</td>
+                <td>Con suero</td>
+                <td className="text-center">2000</td>
+                <td>Costeña</td>
                 <td>
                   <a href="/menactu/1">
                   <i className="fa-solid fa-pen-to-square" style={{color:"#00604e"}}></i>
@@ -34,10 +34,10 @@ export const MenuAdmin = () => {
               </tr>
               <tr>
                 <td>2</td>
-                <td>ajiaco</td>
-                <td>Con arroz</td>
-                <td className="text-center">25000</td>
-                <td>Andina</td>
+                <td>Papa rellena</td>
+                <td>Con carne molida y huevo</td>
+                <td className="text-center">3000</td>
+                <td>Costeña</td>
                 <td>
                 <a href="/menactu/2">
                   <i className="fa-solid fa-pen-to-square"style={{color:"#00604e"}}></i> 
@@ -49,10 +49,10 @@ export const MenuAdmin = () => {
               </tr>
               <tr>
                 <td>3</td>
-                <td>Mote</td>
-                <td>Con queso</td>
-                <td className="text-center">22000</td>
-                <td>Santander</td>
+                <td>Patacon relleno</td>
+                <td>Queso, Carne, suero</td>
+                <td className="text-center">2500</td>
+                <td>Costeña</td>
                 <td>
                 <a href="/menactu/3">
                   <i className="fa-solid fa-pen-to-square" style={{color:"#00604e"}} ></i>
