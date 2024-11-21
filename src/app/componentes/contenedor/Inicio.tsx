@@ -141,9 +141,6 @@ export const Inicio = () => {
                 <p>
                 Este tipo de papa es representativa de la gastronomía colombiana y se ha convertido en uno de nuestros símbolos cuando de cocina se trata.
                 </p>
-                <button className="btn btn-danger" data-bs-toggle="modal" data-bs-target="#mojarraModal">
-                  Leer Más
-                </button>
               </div>
             </div>
 
